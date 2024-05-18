@@ -13,7 +13,7 @@ const RadarChart = () => {
         borderColor: "rgba(255, 99, 132, 1)",
         borderWidth: 2,
       },
-      {
+      { 
         label: "Average Intensity",
         data: [],
         backgroundColor: "rgba(54, 162, 235, 0.2)",

@@ -103,7 +103,7 @@ const BubbleChart = () => {
       <div className="w-700 h-700">
         <Bubble data={chartData} options={options} />
       </div>
-    </div>
+    </div> 
   );
 };
 

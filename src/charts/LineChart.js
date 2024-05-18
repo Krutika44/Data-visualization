@@ -84,7 +84,7 @@ const LineChart = () => {
             size:17,
           },
         },
-      },
+      }, 
     },
   };
 

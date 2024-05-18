@@ -85,5 +85,5 @@ const PieChart = () => {
     </div>
   );
 };
-
+ 
 export default PieChart;

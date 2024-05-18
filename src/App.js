@@ -12,7 +12,7 @@ import Navbar from "./Navbar";
 function App() {
   return (
     <>
-      <Navbar />
+      <Navbar /> 
       <div className="container mx-auto">
         <br />
         <br />
